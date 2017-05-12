@@ -1,0 +1,5 @@
+C:\Media\Code\Projects\public\SharpAHK\SharpAHK\bin\Debug\SharpAHK.dll
+C:\Media\Code\Projects\public\SharpAHK\SharpAHK\bin\Debug\SharpAHK.pdb
+C:\Media\Code\Projects\public\SharpAHK\SharpAHK\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Media\Code\Projects\public\SharpAHK\SharpAHK\obj\Debug\SharpAHK.dll
+C:\Media\Code\Projects\public\SharpAHK\SharpAHK\obj\Debug\SharpAHK.pdb

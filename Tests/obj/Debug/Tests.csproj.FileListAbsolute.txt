@@ -1,0 +1,8 @@
+C:\Media\Code\Projects\public\SharpAHK\Tests\bin\Debug\Tests.exe.config
+C:\Media\Code\Projects\public\SharpAHK\Tests\bin\Debug\Tests.exe
+C:\Media\Code\Projects\public\SharpAHK\Tests\bin\Debug\Tests.pdb
+C:\Media\Code\Projects\public\SharpAHK\Tests\bin\Debug\SharpAHK.dll
+C:\Media\Code\Projects\public\SharpAHK\Tests\bin\Debug\SharpAHK.pdb
+C:\Media\Code\Projects\public\SharpAHK\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Media\Code\Projects\public\SharpAHK\Tests\obj\Debug\Tests.exe
+C:\Media\Code\Projects\public\SharpAHK\Tests\obj\Debug\Tests.pdb
